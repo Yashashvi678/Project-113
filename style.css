@@ -1,0 +1,19 @@
+body
+{
+  background-color: rgb(255, 177, 31);
+}
+h3
+{
+  font-size: 25px !important;
+}
+canvas {
+    border:3px solid black;
+    align-items: center;
+    align-self: center;
+    background-color: lawngreen;
+}
+
+video
+{
+  border: 3px dashed black;
+}
